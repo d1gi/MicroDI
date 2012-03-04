@@ -1,0 +1,8 @@
+*.swp
+*.svn
+*.DS_Store
+.buildpath
+.project
+.settings
+build/*
+!.gitignore
